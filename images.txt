@@ -2,5 +2,5 @@
 xhofe/alist:latest
 mzz2017/v2raya:latest
 hectorqin/reader:latest
-linkease/ddnstolcon:latest
+linkease/ddnstolcon
 hsuyelin/nas-tools:latest
